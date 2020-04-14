@@ -369,6 +369,13 @@
             "twitter_url": "https://twitter.com/jeroenbios"
           },
           {
+            "title": "Badarinath Venkatnarayansetty on Medium",
+            "author": "Badarinath Venkatnarayansetty",
+            "site_url": "https://medium.com/@badrinathvm",
+            "feed_url": "https://medium.com/feed/@badrinathvm",
+            "twitter_url": "https://twitter.com/badrivm"
+          },
+          {
             "title": "Bartosz Ciechanowski’s Blog",
             "author": "Bartosz Ciechanowski",
             "site_url": "http://ciechanowski.me/",
@@ -1884,6 +1891,13 @@
             "site_url": "http://www.neglectedpotential.com",
             "feed_url": "http://www.neglectedpotential.com/feed/",
             "twitter_url": "https://twitter.com/noir"
+          },
+          {
+            "title": "Neil Horton on Medium",
+            "author": "Neil Horton",
+            "site_url": "https://medium.com/@neil.horton/",
+            "feed_url": "https://medium.com/feed/@neil.horton",
+            "twitter_url": "https://twitter.com/Neil3079"
           },
           {
             "title": "Neil Smith’s Blog",
